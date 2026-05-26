@@ -124,8 +124,3 @@ We welcome:
 - Collaborators  
 - Researchers  
 - Environmental enthusiasts  
-
----
-
-## 🌟 Vision
-> “From barren land to living ecosystems — one microforest at a time.”
