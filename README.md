@@ -1,14 +1,14 @@
 # GVan - Microforest Initiative  
 *Miyawaki Forestation Project*
 
-## 📸 Project Outreach
+## Project Outreach
 
 ![Miyawaki Workshop](images/RVTR_talk.jpg)
 
 ---
 
-## 🌍 Overview
-The **VanJyoti – Microforest Initiative** is a nature restoration project based on the **Miyawaki Method**, a scientifically grounded approach to creating dense, native forests in a short time.
+##  Overview
+The **GVan – Microforest Initiative** is a nature restoration project based on the **Miyawaki Method**, a scientifically grounded approach to creating dense, native forests in a short time.
 
 Developed by Japanese botanist **Akira Miyawaki**, this method enables forests to mature in **20–30 years**, compared to over 100 years using conventional approaches.
 
@@ -16,7 +16,7 @@ Our mission is to **restore ecological balance, enhance biodiversity, and combat
 
 ---
 
-## 🚨 Problem Statement
+## Problem Statement
 Global deforestation has led to:
 - Loss of forests
 - Billion tonnes of CO₂ emissions annually  
@@ -26,25 +26,25 @@ There is an urgent need for **fast, scalable, and ecologically sound restoration
 
 ---
 
-## 🌳 What is the Miyawaki Method?
+## What is the Miyawaki Method?
 The Miyawaki Method focuses on:
 - Native species plantation  
 - Dense, multi-layered forests  
 - Natural ecosystem replication  
 
-👉 Result: A **self-sustaining forest that grows up to 10× faster**.
+Result: A **self-sustaining forest that grows up to 10× faster**.
 
 ---
 
-## ⚙️ Core Principles
-- 🌱 **Native Species Only**
-- 🌿 **High Density (3–5 plants/m²)**
-- 🌳 **Multi-layered Structure**
-- 🔄 **Self-sustaining Growth**
+## Core Principles
+- **Native Species Only**
+- **High Density (3–5 plants/m²)**
+- **Multi-layered Structure**
+- **Self-sustaining Growth**
 
 ---
 
-## 🛠️ Methodology
+## Methodology
 
 ### 1. Survey & Species Selection
 - Identify local vegetation (PNV)
@@ -68,16 +68,16 @@ The Miyawaki Method focuses on:
 
 ---
 
-## 🌿 Impact
-- 🌍 Faster carbon sequestration  
-- 🌡️ Reduction in local temperature (~5°C)  
-- 🐦 Increased biodiversity  
-- 💧 Improved water retention  
-- 🌱 Restoration of degraded land  
+## Impact
+- Faster carbon sequestration  
+- Reduction in local temperature (~5°C)  
+- Increased biodiversity  
+- Improved water retention  
+- Restoration of degraded land  
 
 ---
 
-## 📊 Miyawaki vs Traditional
+## Miyawaki vs Traditional
 
 | Feature | Miyawaki | Traditional |
 |--------|----------|------------|
@@ -88,21 +88,21 @@ The Miyawaki Method focuses on:
 
 ---
 
-## 🌎 Global Adoption
+## Global Adoption
 - 3000+ forests worldwide  
 - Used in India, Europe, Asia  
 - Effective in urban & degraded areas  
 
 ---
 
-## 🇮🇳 India Impact
+## India Impact
 - 450,000+ trees planted  
 - Rapid biodiversity growth  
 - Increasing government adoption  
 
 ---
 
-## ⚠️ Limitations
+## Limitations
 - High initial cost  
 - Needs correct species selection  
 - Not for large-scale forests  
@@ -110,7 +110,7 @@ The Miyawaki Method focuses on:
 
 ---
 
-## 🧠 Key Takeaways
+## Key Takeaways
 - Fast-growing, dense, biodiverse forests  
 - Ideal for urban ecosystems  
 - Requires scientific implementation  
@@ -118,7 +118,7 @@ The Miyawaki Method focuses on:
 
 ---
 
-## 🤝 Contribute
+## Contribute
 We welcome:
 - Volunteers  
 - Collaborators  
