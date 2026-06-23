@@ -12,15 +12,14 @@
 
 The **GVan – Microforest Initiative** is a nature restoration project inspired by the **Miyawaki Method**, a scientifically informed approach for establishing dense, native, biodiverse woodlands within a relatively short period of time.
 
-Developed by Japanese botanist **Dr. Akira Miyawaki**, the method focuses on restoring native vegetation through high-density plantation and ecological succession principles. Under suitable conditions, Miyawaki forests can establish dense canopy cover and become largely self-sustaining within a few decades, often faster than many conventional plantation approaches.
+Developed by Japanese botanist **Dr. Akira Miyawaki**, the method focuses on restoring native vegetation through high-density plantation and ecological succession principles. Under suitable conditions, Miyawaki forests can achieve rapid canopy development and become largely self-sustaining within a few decades,making them an effective solution for urban greening and environmental restoration.
 
-Our mission is to **restore ecological balance, enhance biodiversity, improve ecosystem services, and contribute to climate resilience through sustainable afforestation.**
+Our mission is to **restore ecological balance, enhance biodiversity, improve air quality, support  climate resilience,and promote sustainable afforestation through the creation of native microforest.**
 
 ---
 
-## Problem Statement
-
-Deforestation and ecosystem degradation have contributed to:
+## Problem Statement:
+Environmental degradation and deforestation have led to several critical challenges, including:
 
 * Loss of native vegetation
 * Increased greenhouse gas emissions
@@ -29,30 +28,30 @@ Deforestation and ecosystem degradation have contributed to:
 * Declining biodiversity
 * Reduced ecosystem resilience
 
-There is an urgent need for restoration approaches that are ecologically sound, locally adapted, and scalable for urban and community landscapes.
+These issues highlight the urgent need for restoration approaches that are ecologically sustainable,locally adopted,and scalable for urban and community landscapes.
 
 ---
 
 ## What is the Miyawaki Method?
 
-The Miyawaki Method emphasizes:
+The Miyawaki Method is an afforestation technique designed to create  dense,native and biodiverse forestes in a short period of time. The method is based on following principles:
 
 * Native species plantation
 * High-density planting
 * Multi-layered forest structure
 * Ecological restoration based on local vegetation
 
-The objective is to create a dense, biodiverse woodland that can become increasingly self-sustaining over time while supporting local biodiversity and ecosystem recovery.
+The objective is to develope self-sustaining forests that support biodiversity,improve ecosystem services,enhance carbon sequestration,and contribute to long term environmental restoration.
 
 ---
 
 ## Core Principles
 
 * Native Species Selection
-* High Planting Density (3–5 plants/m²)
+* High density planting (3–5 plants/m²)
 * Multi-layered Vegetation Structure
-* Soil Improvement Using Organic Matter
-* Early Intensive Care Followed by Natural Growth
+* Soil enrichment Using Organic Matter
+* Initial intensive maintenance followed by natural growth
 
 ---
 
@@ -62,19 +61,19 @@ The objective is to create a dense, biodiverse woodland that can become increasi
 
 * Study local vegetation and ecological conditions
 * Identify native and site-appropriate species
-* Promote biodiversity through mixed-species planting
+* Promote biodiversity through diverse native species planting
 * Avoid invasive species
 
 ### 2. Site Preparation
 
-* Assess soil characteristics
-* Improve soil using organic matter and biomass
+* Assess soil quality,composition and drainage
+* Enhance soil fertility using organic matter and biomass
 * Remove undesirable weeds where necessary
-* Prepare saplings for plantation
+* Prepare  healthy native saplings for planting
 
 ### 3. Plantation
 
-* Dense plantation (approximately 30,000–50,000 plants/hectare depending on design)
+* High density planting(approximately 30,000–50,000 plants/hectare depending on design)
 * Mixed and randomized species distribution
 * Immediate watering and mulching
 
